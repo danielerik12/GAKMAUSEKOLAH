@@ -1,4 +1,4 @@
-<html>
+<echo>
 <head>
 <title>1</title>
 <font class="hk2" style="text-shadow: 1px -1px 8px;" face="tahoma">
